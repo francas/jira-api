@@ -1,0 +1,4 @@
+Components without a component lead:
+Component: Backend (13 issue(s))
+Component: Synchronization (3 issue(s))
+Component: Templates (11 issue(s))
